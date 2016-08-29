@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+  <person>
+    <name>Gabriel Hoff</name>
+    <age>23</age>
+    <job>Desenvolvedor</job>
+    <company>HoffTech</company>
+  </person>
+</people>
